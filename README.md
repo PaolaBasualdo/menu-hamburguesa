@@ -30,7 +30,7 @@
 
 Desarrollo de un menú hamburguesa que permite la navegación en distintos tamaños de pantalla. El menú cambia de una barra de navegación estándar a un menú desplegable en dispositivos móviles.
 
-<ul style="list-style-type: none;">
+<ul>
   <li>🔹 Se utiliza JavaScript para gestionar la apertura y cierre del menú en pantallas pequeñas.</li>
   <li>🔹 El diseño cambia a menú hamburguesa cuando la pantalla es menor a 550px de ancho.</li>
   <li>🔹 Implementado con HTML, CSS y Bootstrap Icons para los botones de menú.</li>
@@ -45,10 +45,9 @@ Desarrollo de un menú hamburguesa que permite la navegación en distintos tama�
 </h3>
 
 ---
+## 🛠️Características de la aplicación  
 
-## 🛠️ Características de la aplicación  
-
-<ul style="list-style-type: none;">
+<ul>
   <li>✔️ Diseño responsivo adaptable a distintas pantallas.</li>
   <li>✔️ Uso de JavaScript para manejar interacciones del usuario.</li>
   <li>✔️ Menú accesible con diseño limpio y minimalista.</li>
@@ -56,7 +55,7 @@ Desarrollo de un menú hamburguesa que permite la navegación en distintos tama�
 
 ## 🔧 Funcionalidades del proyecto  
 
-<ul style="list-style-type: none;">
+<ul>
   <li>✅ Navegación Adaptativa: Cambio dinámico del menú según el tamaño de la pantalla.</li>
   <li>✅ Interactividad: Botones para abrir y cerrar el menú en móviles.</li>
   <li>✅ Diseño Accesible: Uso de contrastes adecuados y navegación intuitiva.</li>
@@ -76,7 +75,7 @@ Desarrollo de un menú hamburguesa que permite la navegación en distintos tama�
 
 ## 🚀 Tecnologías utilizadas  
 
-<ul style="list-style-type: none;">
+<ul>
   <li>🔹<strong>HTML5</strong>📚</li>
   <li>🔹<strong>CSS3</strong>💚</li>
   <li>🔹<strong>JavaScript</strong>💪</li>

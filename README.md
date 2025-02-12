@@ -5,7 +5,7 @@
 <h2 align="center">
   📌 Proyecto de Menú Responsivo con HTML, CSS y JavaScript
 </h2>
-<p id="insignias" align="center">
+<p id="insignias" align="left">
    <img src="https://img.shields.io/badge/STATUS-TERMINADO-blue">
 </p>
 
@@ -18,6 +18,7 @@
 - [Índice](#-índice)
 - [Descripción del proyecto](#-descripción-del-proyecto)
 - [Estado del proyecto](#-estado-del-proyecto)
+- [Características de la aplicación ](#-características-de-la-aplicación)
 - [Funcionalidades del proyecto](#-funcionalidades-del-proyecto)
 - [Acceso al proyecto](#-acceso-al-proyecto)
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
@@ -29,10 +30,11 @@
 
 Desarrollo de un menú hamburguesa que permite la navegación en distintos tamaños de pantalla. El menú cambia de una barra de navegación estándar a un menú desplegable en dispositivos móviles.
 
-🔹 Se utiliza JavaScript para gestionar la apertura y cierre del menú en pantallas pequeñas.
-🔹 El diseño cambia a menú hamburguesa cuando la pantalla es menor a 550px de ancho.
-🔹 Implementado con HTML, CSS y Bootstrap Icons para los botones de menú.
-
+<ul style="list-style-type: none;">
+  <li>🔹 Se utiliza JavaScript para gestionar la apertura y cierre del menú en pantallas pequeñas.</li>
+  <li>🔹 El diseño cambia a menú hamburguesa cuando la pantalla es menor a 550px de ancho.</li>
+  <li>🔹 Implementado con HTML, CSS y Bootstrap Icons para los botones de menú.</li>
+</ul>
 
 ---
 
@@ -46,15 +48,19 @@ Desarrollo de un menú hamburguesa que permite la navegación en distintos tama�
 
 ## 🛠️ Características de la aplicación  
 
-✔️ Diseño responsivo adaptable a distintas pantallas.
-✔️ Uso de JavaScript para manejar interacciones del usuario.
-✔️ Menú accesible con diseño limpio y minimalista.
+<ul style="list-style-type: none;">
+  <li>✔️ Diseño responsivo adaptable a distintas pantallas.</li>
+  <li>✔️ Uso de JavaScript para manejar interacciones del usuario.</li>
+  <li>✔️ Menú accesible con diseño limpio y minimalista.</li>
+</ul>
 
-### 🔧 Funcionalidades del proyecto  
+## 🔧 Funcionalidades del proyecto  
 
-✅ Navegación Adaptativa: Cambio dinámico del menú según el tamaño de la pantalla.
-✅ Interactividad: Botones para abrir y cerrar el menú en móviles.
-✅ Diseño Accesible: Uso de contrastes adecuados y navegación intuitiva.
+<ul style="list-style-type: none;">
+  <li>✅ Navegación Adaptativa: Cambio dinámico del menú según el tamaño de la pantalla.</li>
+  <li>✅ Interactividad: Botones para abrir y cerrar el menú en móviles.</li>
+  <li>✅ Diseño Accesible: Uso de contrastes adecuados y navegación intuitiva.</li>
+</ul>
 
 ---
 
@@ -70,13 +76,12 @@ Desarrollo de un menú hamburguesa que permite la navegación en distintos tama�
 
 ## 🚀 Tecnologías utilizadas  
 
-<ul>
+<ul style="list-style-type: none;">
   <li>🔹<strong>HTML5</strong>📚</li>
   <li>🔹<strong>CSS3</strong>💚</li>
   <li>🔹<strong>JavaScript</strong>💪</li>
   <li>🔹<strong>Bootstrap Icons</strong>📸</li>
 </ul>
-
 ---
 
 ## 👩‍💻 Desarrolladora del proyecto  

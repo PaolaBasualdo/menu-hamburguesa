@@ -18,7 +18,7 @@
 - [Índice](#-índice)
 - [Descripción del proyecto](#-descripción-del-proyecto)
 - [Estado del proyecto](#-estado-del-proyecto)
-- [Características de la aplicación](#-características-de-la-aplicación)
+- [Características de la aplicación](#características-de-la-aplicación)
 - [Funcionalidades del proyecto](#-funcionalidades-del-proyecto)
 - [Acceso al proyecto](#-acceso-al-proyecto)
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
@@ -82,6 +82,7 @@ Desarrollo de un menú hamburguesa que permite la navegación en distintos tama�
   <li>🔹<strong>JavaScript</strong>💪</li>
   <li>🔹<strong>Bootstrap Icons</strong>📸</li>
 </ul>
+
 ---
 
 ## 👩‍💻 Desarrolladora del proyecto  

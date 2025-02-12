@@ -30,9 +30,9 @@
 
 Desarrollo de un menú hamburguesa que permite la navegación en distintos tamaños de pantalla. El menú cambia de una barra de navegación estándar a un menú desplegable en dispositivos móviles.
 
-🔹 Se utiliza JavaScript para gestionar la apertura y cierre del menú en pantallas pequeñas.
-🔹 El diseño cambia a menú hamburguesa cuando la pantalla es menor a 550px de ancho.
-🔹 Implementado con HTML, CSS y Bootstrap Icons para los botones de menú.
+-🔹 Se utiliza JavaScript para gestionar la apertura y cierre del menú en pantallas pequeñas.
+-🔹 El diseño cambia a menú hamburguesa cuando la pantalla es menor a 550px de ancho.
+-🔹 Implementado con HTML, CSS y Bootstrap Icons para los botones de menú.
 
 
 ---
@@ -47,15 +47,15 @@ Desarrollo de un menú hamburguesa que permite la navegación en distintos tama�
 
 ## 🛠️ Características de la aplicación  
 
-✔️ Diseño responsivo adaptable a distintas pantallas.
-✔️ Uso de JavaScript para manejar interacciones del usuario.
-✔️ Menú accesible con diseño limpio y minimalista.
+-✔️ Diseño responsivo adaptable a distintas pantallas.
+-✔️ Uso de JavaScript para manejar interacciones del usuario.
+-✔️ Menú accesible con diseño limpio y minimalista.
 
 ### 🔧 Funcionalidades del proyecto  
 
-✅ Navegación Adaptativa: Cambio dinámico del menú según el tamaño de la pantalla.
-✅ Interactividad: Botones para abrir y cerrar el menú en móviles.
-✅ Diseño Accesible: Uso de contrastes adecuados y navegación intuitiva.
+-✅ Navegación Adaptativa: Cambio dinámico del menú según el tamaño de la pantalla.
+-✅ Interactividad: Botones para abrir y cerrar el menú en móviles.
+-✅ Diseño Accesible: Uso de contrastes adecuados y navegación intuitiva.
 
 ---
 
@@ -71,25 +71,24 @@ Desarrollo de un menú hamburguesa que permite la navegación en distintos tama�
 
 ## 🚀 Tecnologías utilizadas  
 
-🔹 **HTML5 📚**
-🔹**CSS3 💚**
-🔹**JavaScript 💪**
-🔹**Bootstrap Icons 📸**
+-🔹 **HTML5**📚
+-🔹**CSS3**💚
+-🔹**JavaScript**💪
+-🔹**Bootstrap Icons**📸
 
 ---
 
 ## 👩‍💻 Desarrolladora del proyecto  
 
 | [<img src="https://avatars.githubusercontent.com/u/117169838?v=4" width=115><br><sub>Paola Ivana Basualdo</sub>](https://github.com/PaolaBasualdo) |  
-| :---: |  
+
 
 ---
 
-##📩 Contacto: 
+## 📩 Contacto: 
 
 **[Linkedin](https://www.linkedin.com/in/paola-ivana-basualdo/)
 
----
 
 
 

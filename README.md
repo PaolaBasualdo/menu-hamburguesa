@@ -18,7 +18,7 @@
 - [Índice](#-índice)
 - [Descripción del proyecto](#-descripción-del-proyecto)
 - [Estado del proyecto](#-estado-del-proyecto)
-- [Caracteristicas de la aplicacion](#-caracteristicas-de-la-aplicacion)
+- [Características de la aplicación](#caracteristicas)
 - [Funcionalidades del proyecto](#-funcionalidades-del-proyecto)
 - [Acceso al proyecto](#-acceso-al-proyecto)
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
@@ -46,7 +46,7 @@ Desarrollo de un menú hamburguesa que permite la navegación en distintos tama�
 
 ---
 
-## 🛠️ Caracteristicas de la aplicacion  
+<h2 id="caracteristicas">🛠️ Características de la aplicación</h2>
 
 <ul>
   <li>✔️ Diseño responsivo adaptable a distintas pantallas.</li>
